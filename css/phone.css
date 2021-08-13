@@ -1,0 +1,25 @@
+.section-phone{
+    max-width: 375px;
+    padding: 0.5rem;
+}
+.section-imagen{
+    width: 15rem;
+    margin: 2.5rem;
+    
+}
+.section-RAM_button{
+    max-width: 9rem;
+    margin: auto;
+    height: 2.5rem;
+    border-radius: 5%;
+    background-color: var(--gris);
+    color: black;
+    font-size: 1.2rem;
+    font-weight: 2rem;
+    text-decoration: none;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
